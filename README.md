@@ -4,7 +4,7 @@
 This project analyzes Netflix content metadata (synthetic dataset included) using SQL and visualizes trends using a Streamlit dashboard. It is designed to demonstrate SQL analytical skills and interactive dashboarding for portfolio presentation.
 
 ## Live Demo
-*(Add deployed Streamlit app link here after deployment)*
+https://netflix-content---sql-analysis-jywbu7vt6vypkyf4tumztw.streamlit.app/
 
 ## Dataset
 - `dataset/netflix_titles_synthetic.csv` (~8,000 rows, synthetic for demo)
@@ -43,10 +43,7 @@ Netflix-SQL-Analysis/
 └── README.md
 ```
 
-## Next Steps
-- Deploy the Streamlit app to Streamlit Cloud and add the live link to README.
-- Extend SQL queries for deeper analysis (actor-director co-occurrence, genre evolution).
-- Add screenshots and insights to the README for portfolio presentation.
+
 
 ---
 **Author:** Saikiran Kasam
